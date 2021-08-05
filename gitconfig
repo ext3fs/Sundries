@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Ilyoung Jung
+	email = ext3fs@hanmail.net
+# Please adapt and uncomment the following lines:
+#	name = 
+#	email = ext3fs@DESKTOP-KFCETA4.localdomain
+[alias]
+	l = log --all --oneline --graph
+[merge]
+	conflictstyle = diff3
+[core]
+	editor = vi
