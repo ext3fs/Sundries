@@ -11,3 +11,7 @@
 	conflictstyle = diff3
 [core]
 	editor = vi
+[push]
+	default = simple
+[credential]
+	helper = store
